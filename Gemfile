@@ -1,8 +1,8 @@
 source 'https://rubygems.org'
 
 gem 'sinatra'
-gem 'pg'
+gem 'pg' # postgres
 gem 'sinatra-activerecord'
 gem 'json'
 gem 'pry'
-gem 'bcrypt'
+gem 'bcrypt' # our security library
